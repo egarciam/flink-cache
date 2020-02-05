@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flink-cache.iml" filepath="$PROJECT_DIR$/flink-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-cache (1).iml" filepath="$PROJECT_DIR$/flink-cache (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-cache (1) (cache.ivr.flink.poc).iml" filepath="$PROJECT_DIR$/flink-cache (1) (cache.ivr.flink.poc).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+    </modules>
+  </component>
+</project>

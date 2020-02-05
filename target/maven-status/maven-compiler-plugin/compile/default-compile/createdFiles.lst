@@ -1,0 +1,17 @@
+orange/ivr/flink/poc/operators/coflatmap/CoFlatMapClientCache.class
+orange/ivr/flink/poc/operators/process/BroadCastClientCache.class
+orange/ivr/flink/poc/operators/map/StringToClient.class
+orange/ivr/flink/poc/operators/coflatmap/CoFlatMapClientExtended.class
+orange/ivr/flink/poc/sink/RedisClientCache.class
+orange/ivr/flink/poc/operators/map/StringToProduct.class
+orange/ivr/flink/poc/model/ClientExtended.class
+orange/ivr/flink/poc/watermarks/ClientTimestamp.class
+orange/ivr/flink/poc/model/Client.class
+orange/ivr/flink/poc/StreamingJob.class
+orange/ivr/flink/poc/model/ClientCache.class
+orange/ivr/flink/poc/model/CliProd.class
+orange/ivr/flink/poc/watermarks/CliProTimestamp.class
+orange/ivr/flink/poc/operators/map/StringToCliProd.class
+orange/ivr/flink/poc/SQLJob.class
+orange/ivr/flink/poc/model/Product.class
+orange/ivr/flink/poc/watermarks/ProductTimestamp.class

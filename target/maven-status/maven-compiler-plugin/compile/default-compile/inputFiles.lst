@@ -1,0 +1,17 @@
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/operators/map/StringToClient.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/model/ClientCache.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/watermarks/CliProTimestamp.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/model/Client.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/watermarks/ProductTimestamp.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/sink/RedisClientCache.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/model/ClientExtended.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/operators/coflatmap/CoFlatMapClientCache.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/operators/map/StringToCliProd.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/operators/map/StringToProduct.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/SQLJob.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/operators/coflatmap/CoFlatMapClientExtended.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/watermarks/ClientTimestamp.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/StreamingJob.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/model/Product.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/model/CliProd.java
+/Users/ruben.casado.tejedor/Flink_projects/flink-cache/src/main/java/orange/ivr/flink/poc/operators/process/BroadCastClientCache.java
